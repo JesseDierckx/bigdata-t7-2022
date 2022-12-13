@@ -1,0 +1,10 @@
+__pycache__
+_test
+_images
+.vscode
+*.pkl
+*.pyc
+*.pyo
+*.pyd
+*.pth
+_models
